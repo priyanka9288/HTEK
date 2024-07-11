@@ -1,0 +1,18 @@
+Why Point 3 is Required
+Point 3 refers to the requirement that "XFT must be willing for a charge back with valid BP ID and that gets interlocked with the onboarding request in product funnel."
+
+This is required because it ensures that the costs associated with running Jenkins on AWS (such as compute resources, storage, etc.) are 
+allocated correctly within the 
+organization. A BP (Billing Point) ID is
+used to track these costs and charge them
+to the appropriate department or project
+budget. This helps in maintaining financial
+accountability and ensuring that the expenses are attributed 
+to the correct team or project.
+
+How to Obtain a Valid BP ID
+Here's how you can obtain a valid BP ID and ensure it is used for your Jenkins onboarding request:
+
+Contact Finance or Administration:
+
+Reach out to your finance or administration department. They are usually responsible for managing BP IDs and can provide you with the necessary information or create a new BP ID for your project if needed.
