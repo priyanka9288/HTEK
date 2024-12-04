@@ -1,6 +1,5 @@
 FROM ubuntu:latest
 
-
 # Update package list and install nginx and other necessary tools
 RUN apt-get update && \
     apt-get install -y nginx net-tools systemd && \
